@@ -19,7 +19,7 @@ title: Young Jin's Blog # the main title
 tagline:  Dev && Think Blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Dev and Think, grow together
+  Development, development, 개발, 백엔드, 자바, 스프링, 스프링부트, Java, java, Spring, SpringBoot, spring, springBoot, 코테, 알고리즘, coding, code, flutterm Flutter
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
