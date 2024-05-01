@@ -1,0 +1,72 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Young Jin's Blog</title>
+  <subtitle>Dev and Think, grow together</subtitle>
+  <updated>2024-05-01T22:36:52+09:00</updated>
+  <author>
+    <name>Cho Young Jin</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="ko-KR"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2024 Cho Young Jin </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>깃허브블로그 탯트</title>
+    <link href="http://localhost:4000/posts/test/" rel="alternate" type="text/html" title="깃허브블로그 탯트" />
+    <published>2022-04-30T00:00:00+09:00</published>
+  
+    <updated>2022-04-30T00:00:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/test/</id>
+    <content src="http://localhost:4000/posts/test/" />
+    <author>
+      <name>Cho Young Jin</name>
+    </author>
+
+  
+    
+    <category term="TOP_CATEGORIE" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      좀되라
+테스트
+나는 바보다
+
+  바로가기가 있는데 글자가 안가진다
+  이건 테스트용이다 왜되안될까
+    이상하다
+  
+
+
+나는 천재다
+
+  왜 안되냔ㅇㄹ긍ㄴㄻㅇ
+  ㄴㅇㄹㄴㅇㄹㅇㄹ
+
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
